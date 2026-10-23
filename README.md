@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Sobre mim
+# 👋 Seja bem vindo!
 
 ### 🐧 Infraestrutura de TI | Iniciando em DevOps
 
@@ -114,6 +114,5 @@ Laboratório de observabilidade e monitoramento utilizando Zabbix e Grafana.
 
 <div align="center">
 
-### 💻 Aprender. Construir. Automatizar. Evoluir.
 
 </div>
