@@ -36,8 +36,11 @@ Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde explo
 
 ### Infraestrutura e DevOps
 
+
+### Infraestrutura e DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,git,githubactions&theme=dark" alt="Linux, Debian, Docker, Git e GitHub Actions"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,docker,git,githubactions,proxmox&theme=dark" alt="Linux, Debian, Docker, Git, GitHub Actions e Proxmox"/>
 </p>
 
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
