@@ -36,9 +36,6 @@ Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde explo
 
 ### Infraestrutura e DevOps
 
-
-### Infraestrutura e DevOps
-
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,docker,git,githubactions,proxmox&theme=dark" alt="Linux, Debian, Docker, Git, GitHub Actions e Proxmox"/>
 </p>
