@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Regis!
+# 👋 Olá, eu sou o Regis!
 
 ### Infraestrutura de TI | Iniciando em DevOps
 
@@ -36,25 +36,25 @@ Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde explo
 
 ### Infraestrutura e DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,git,githubactions&theme=dark" alt="Linux, Debian, Docker, Git e GitHub Actions"/>
+</p>
+
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### Cloud Computing
 
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS e Microsoft Azure"/>
+</p>
 
 ### Redes, Serviços e Monitoramento
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,grafana,mysql,nginx,redis&theme=dark" alt="Cloudflare, Grafana, MySQL, Nginx e Redis"/>
+</p>
+
+Também utilizo **Zabbix** para monitoramento de infraestrutura.
 
 ---
 
@@ -64,10 +64,17 @@ Tenho interesse em computação em nuvem e venho desenvolvendo meus conhecimento
 
 ### Microsoft Azure
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+**Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+[![Certificação AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/pt-br/RegisFredericoFilho-6676/8929C79D74692BA5?sharingId=D2FCC78C978ECD7B)
+
+[Verificar minha certificação no Microsoft Learn](https://learn.microsoft.com/api/credentials/share/pt-br/RegisFredericoFilho-6676/8929C79D74692BA5?sharingId=D2FCC78C978ECD7B)
+
+Conhecimentos em:
 - Fundamentos de computação em nuvem
 - Conceitos de IaaS, PaaS e SaaS
-- Serviços, segurança e governança no Azure
+- Serviços e soluções Microsoft Azure
+- Segurança, identidade e governança em nuvem
 
 ### Amazon Web Services (AWS)
 
@@ -135,10 +142,3 @@ Laboratório de observabilidade e monitoramento utilizando Zabbix e Grafana.
 - Cloud Computing — AWS e Azure
 - Segurança e boas práticas em infraestrutura
 
----
-
-<div align="center">
-
-### Aprender. Construir. Automatizar. Evoluir.
-
-</div>
