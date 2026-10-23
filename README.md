@@ -1,13 +1,13 @@
 
 <div align="center">
 
-# Regis Frederico Filho
+# Olá, eu sou o Regis!
 
-### 🐧 Infraestrutura de TI | Iniciando em DevOps
+### Infraestrutura de TI | Iniciando em DevOps
 
 💻 Aprendendo, experimentando e compartilhando minha evolução no mundo da tecnologia.
 
-`Linux` • `Docker` • `Proxmox` • `CI/CD` • `Automação`
+`Linux` • `Docker` • `Cloud Computing` • `CI/CD` • `Automação`
 
 [![GitHub](https://img.shields.io/badge/GitHub-RegisFredFilho-181717?style=for-the-badge&logo=github)](https://github.com/RegisFredFilho)
 
@@ -17,24 +17,24 @@
 
 ## 👋 Sobre mim
 
-Sou entusiasta de tecnologia, tenho conhecimentos em infraestrutura de TI e atualmente estou iniciando minha jornada na área de **DevOps**.
+Sou entusiasta de tecnologia, tenho experiência com infraestrutura de TI e atualmente estou iniciando minha jornada na área de **DevOps**.
 
-Busco desenvolver minhas habilidades em automação, containers, integração e entrega contínua (CI/CD), administração de servidores e infraestrutura como código.
+Tenho conhecimentos em **Cloud Computing**, com estudos em AWS e certificação **Microsoft Azure Fundamentals (AZ-900)**.
 
-Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde experimento ferramentas, desenvolvo projetos e simulo ambientes reais de infraestrutura.
+Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde exploro tecnologias, desenvolvo projetos e simulo ambientes reais de infraestrutura, automação e integração contínua.
 
-- 🐧 Explorando Linux e administração de servidores
-- 🐳 Estudando Docker e containerização
-- ⚙️ Aprendendo sobre pipelines CI/CD
-- 🖥️ Utilizando Proxmox para virtualização
-- 📊 Trabalhando com monitoramento de infraestrutura
-- 🚀 Buscando evoluir constantemente em DevOps
+- Administração de servidores Linux
+- Docker e containerização
+- Pipelines CI/CD com GitHub Actions
+- Virtualização com Proxmox VE
+- Cloud Computing com AWS e Azure
+- Monitoramento e automação de infraestrutura
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🖥️ Infraestrutura e DevOps
+### Infraestrutura e DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -43,7 +43,12 @@ Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde exper
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🌐 Redes, Serviços e Monitoramento
+### Cloud Computing
+
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logoColor=white)
+
+### Redes, Serviços e Monitoramento
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -53,11 +58,30 @@ Para colocar meus conhecimentos em prática, mantenho um **Homelab**, onde exper
 
 ---
 
+## ☁️ Cloud Computing & Certificações
+
+Tenho interesse em computação em nuvem e venho desenvolvendo meus conhecimentos nas principais plataformas e conceitos de Cloud Computing.
+
+### Microsoft Azure
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- Fundamentos de computação em nuvem
+- Conceitos de IaaS, PaaS e SaaS
+- Serviços, segurança e governança no Azure
+
+### Amazon Web Services (AWS)
+
+- Estudos sobre os fundamentos da AWS
+- Conceitos de infraestrutura e serviços em nuvem
+- Modelos de implantação e arquitetura Cloud
+
+---
+
 ## 🏠 Meu Homelab
 
 Mantenho um laboratório pessoal baseado em **Proxmox VE**, utilizado para aprendizado, experimentação e desenvolvimento de projetos relacionados à infraestrutura e DevOps.
 
-### 🔧 O que utilizo no laboratório
+### O que utilizo no laboratório
 
 - Virtualização com Proxmox VE
 - Máquinas virtuais e containers LXC
@@ -73,16 +97,16 @@ Mantenho um laboratório pessoal baseado em **Proxmox VE**, utilizado para apren
 
 ## 📂 Projetos e Laboratórios
 
-### 🐳 Docker Lab
+### Docker Lab
 Estudos práticos sobre containers, imagens, volumes, redes e Docker Compose.
 
-### ⚙️ CI/CD Lab
+### CI/CD Lab
 Criação e experimentação de pipelines utilizando GitHub Actions.
 
-### 🖥️ Proxmox Homelab
+### Proxmox Homelab
 Ambiente de virtualização e gerenciamento de máquinas virtuais, containers e serviços.
 
-### 📊 Monitoring Lab
+### Monitoring Lab
 Laboratório de observabilidade e monitoramento utilizando Zabbix e Grafana.
 
 *Projetos e documentações em desenvolvimento.*
@@ -93,9 +117,9 @@ Laboratório de observabilidade e monitoramento utilizando Zabbix e Grafana.
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=RegisFredFilho&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=RegisFredFilho&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RegisFredFilho&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RegisFredFilho&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
@@ -103,16 +127,18 @@ Laboratório de observabilidade e monitoramento utilizando Zabbix e Grafana.
 
 ## 📚 Atualmente estudando
 
-- 🏗️ Terraform — Infraestrutura como Código
-- 🤖 Ansible — Automação de configurações
-- ☸️ Kubernetes — Orquestração de containers
-- 🔄 CI/CD — Integração e entrega contínua
-- 🐚 Shell Script — Automação Linux
-- 🔐 Segurança e boas práticas em infraestrutura
+- Terraform — Infraestrutura como Código
+- Ansible — Automação de configurações
+- Kubernetes — Orquestração de containers
+- CI/CD — Integração e entrega contínua
+- Shell Script — Automação Linux
+- Cloud Computing — AWS e Azure
+- Segurança e boas práticas em infraestrutura
 
 ---
 
 <div align="center">
 
+### Aprender. Construir. Automatizar. Evoluir.
 
 </div>
