@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Regis!
+# Regis Frederico Filho
 
 ### Infraestrutura de TI | Iniciando em DevOps
 
@@ -10,7 +10,7 @@
 `Linux` • `Docker` • `Cloud Computing` • `CI/CD` • `Automação`
 
 [![GitHub](https://img.shields.io/badge/GitHub-RegisFredFilho-181717?style=for-the-badge&logo=github)](https://github.com/RegisFredFilho)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Regis_Frederico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regis-frederico-filho-79a6ba268)
 </div>
 
 ---
